@@ -1,2 +1,2 @@
 # newton-compiler
-This is a compiler written in C for Newton language.
+This is a compiler written in C for a language called Newton.
